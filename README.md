@@ -2,6 +2,8 @@
 
 ruboty plugin for ぬるぽ ガッ.
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
